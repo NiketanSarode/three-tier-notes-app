@@ -1,0 +1,22 @@
+# Maven build and target outputs
+target/
+**/target/
+*.class
+
+# IDE and Editor configurations
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+.vscode/
+
+# Environment files and credentials
+.env
+
+# OS specific temporary files
+.DS_Store
+Thumbs.db
+
+# Docker persistence data volume folders
+mysql_data/
